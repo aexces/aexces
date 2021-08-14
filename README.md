@@ -1,11 +1,17 @@
-# Hi there 👋
-
 ![cover](assets/bio.gif)
 
-- 🌱 I’m currently practicing [Domain Driven Design] (https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U)
 
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently practicing **Domain-Driven-Design**
+
+- 👯 I’m looking for open-source contributions
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/abhijith-gs-590940205/)
+
+<h3 align="left">🤝 Connect with me:</h3>
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/aexces" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://instagram.com/mr.aexces" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
