@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![cover](assets/bio.png)
+![cover](assets/bio.gif)
 
 - 🌱 I’m currently practicing [Domain Driven Design] (https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U)
 
