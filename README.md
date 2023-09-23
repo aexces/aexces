@@ -1,7 +1,7 @@
 ![cover](assets/bio.gif)
 
 
-- 🌱 I’m currently practicing **Domain-Driven-Design**
+- 🌱 I’m currently practicing **Domain-Driven-Design-Architecture**
 
 - 👯 I’m looking for open-source contributions
 
